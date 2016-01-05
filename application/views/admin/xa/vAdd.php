@@ -16,7 +16,7 @@
   });
 </script>
 </head>
-<table width='650px' align='center'>
+<table width='650px' align='center' class="table table-striped">
 <tr>
 <td>
 <form class="form-horizontal" role="form" action="<?php echo base_url(); ?>index.php/admin/xa/add" method="post">
@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="form-group">
-    <label class="control-label col-sm-2" for="text">Mã xa:</label>
+    <label class="control-label col-sm-2" for="text">Mã xã:</label>
     <div class="col-sm-10">
       <input type="text" class="form-control" name="X_MA" />
     </div>

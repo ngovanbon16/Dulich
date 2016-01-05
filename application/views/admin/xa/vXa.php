@@ -11,7 +11,7 @@
 </head>
 
 <div class="container">
-  <h2>Quản lý xã phường</h2>       
+  <h2>Xã/Phường/Thị trấn</h2>       
   <table class="table table-striped">
     <thead>
       <tr>

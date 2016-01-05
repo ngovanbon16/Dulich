@@ -1,4 +1,4 @@
-<table width='600px' align='center'>
+<table width='600px' align='center' class="table table-striped">
 <tr>
 <td>
 <form class="form-horizontal" role="form" action="<?php echo base_url(); ?>index.php/admin/tinh/add" method="post">
